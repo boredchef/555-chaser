@@ -1,0 +1,2 @@
+Name,Purpose,Quantity, subtotal, tax, shipping, total cost,Link,Distributor
+"custom pcb","pcb for the blinkyboard with shape",5,2.00,"n/a",3.30,5.30,"https://jlcpcb.com/","JLCPCB"
