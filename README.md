@@ -6,6 +6,8 @@ This PCB when connected to power and when the potentiometer is turned to let pow
 <img width="1068" height="602" alt="image" src="https://github.com/user-attachments/assets/98046c3d-4960-4a86-aee2-8b286dd65487" />
 above is the 3D view of the PCB but it does not render the potentiometer or the 4017 IC 
 
+## BoM
+
 | Name | Purpose | Qty | Total | Link | Distributor | 
 | --- | --- | --- | --- | --- | --- |
 | blinky board kit | leds, ICs, resistors, potentiometer | 1 | $10 | - | HackClub
