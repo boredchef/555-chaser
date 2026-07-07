@@ -6,6 +6,13 @@ This PCB when connected to power and when the potentiometer is turned to let pow
 <img width="1068" height="602" alt="image" src="https://github.com/user-attachments/assets/98046c3d-4960-4a86-aee2-8b286dd65487" />
 above is the 3D view of the PCB but it does not render the potentiometer or the 4017 IC 
 
+<img width="3024" height="4032" alt="IMG_1859" src="https://github.com/user-attachments/assets/176fe259-cce2-4869-8527-049443539e70" />
+Finished PCB Front
+<img width="3024" height="4032" alt="IMG_1860" src="https://github.com/user-attachments/assets/adddd3d9-9761-4c9d-be3f-c87fa69baf04" />
+Finished PCB Back
+
+
+
 ## BoM
 
 | Name | Purpose | Qty | Total | Link | Distributor | 
